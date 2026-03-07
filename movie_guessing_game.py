@@ -35,7 +35,7 @@ def play_game():
     print("Guess the Movie")
 
     guesses = ""
-    turns = 15
+    turns = 5
 
     while turns > 0:
         failed = 0
